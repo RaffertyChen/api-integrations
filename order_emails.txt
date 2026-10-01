@@ -1,0 +1,199 @@
+Email 1
+From: Mike Torres <mike@harborline-fab.com>
+Date: 2026-09-21
+Subject: order
+
+Hi, can we get 200 steel brackets please. Need them by October 5. Thanks,
+Mike, Harbor Line Fabrication
+
+=====
+
+Email 2
+From: Anke Vogel <a.vogel@nordhaus-metallbau.de>
+Date: 2026-09-21
+Subject: Bestellung / order
+
+Hello, we would like to order two hundred and fifty rubber gaskets.
+Delivery by 12/10/2026 please.
+Best regards, Anke Vogel, Nordhaus Metallbau
+
+=====
+
+Email 3
+From: jess@pacificrimtooling.com.au
+Date: 2026-09-22
+Subject: bolts
+
+hey need 6 packs of the hex bolts (100 per pack), no rush, whenever is fine
+jess / pacific rim tooling
+
+=====
+
+Email 4
+From: Budi Santoso <budi@selatan-eng.co.id>
+Date: 2026-09-22
+Subject: Order door hinges
+
+Dear team, please send 120 door hinges. We need them by next Friday.
+Thank you, Budi, Selatan Engineering
+
+=====
+
+Email 5
+From: Claire Dubois <claire@mapleleafmachine.ca>
+Date: 2026-09-22
+Subject: Ball bearings
+
+Hi! We'd like 400 ball bearings (the 608 ones). Needed by Oct 9.
+Actually, scratch that, make it 300. Our budget got cut.
+Claire, Maple Leaf Machine Shop
+
+=====
+
+Email 6
+From: Tom Hughes <tom@kestrel-components.co.uk>
+Date: 2026-09-23
+Subject: Quick question
+
+Hi, what's your current price for aluminium sheets, and how long does
+delivery to the UK usually take? Cheers, Tom, Kestrel Components
+
+=====
+
+Email 7
+From: Rosa Garcia <rosa@riograndewelding.com>
+Date: 2026-09-23
+Subject: hydraulic hoses
+
+Hello, please send 15 hydraulic hoses, the 2 meter ones. Thanks.
+Rosa, Rio Grande Welding
+
+=====
+
+Email 8
+From: Pieter van Dijk <pieter@vandijkprecision.nl>
+Date: 2026-09-23
+Subject: Order
+
+Good morning, we need 5 control panel enclosures, delivery before 2026-10-16.
+Kind regards, Pieter van Dijk, Van Dijk Precision
+
+=====
+
+Email 9
+From: Dan <dan@lakesidecabinets.com>
+Date: 2026-09-24
+Subject: hinges again
+
+same as last month, two dozen door hinges. by the 1st if you can.
+Dan, Lakeside Cabinets
+
+=====
+
+Email 10
+From: Maria Santos <maria@sunriseautoparts.ph>
+Date: 2026-09-24
+Subject: Order for gaskets
+
+hello po, we need 500 rubber gaskets for our shop, please deliver by oct 20.
+salamat! maria, sunrise auto parts
+
+=====
+
+Email 11
+From: Erik Lindqvist <erik@aurorarobotics.se>
+Date: 2026-09-24
+Subject: Bearings
+
+Hi, last time we ordered 100 ball bearings (608) and they ran out fast,
+so this time we'd like 250. Needed by 7 October.
+Erik, Aurora Robotics
+
+=====
+
+Email 12
+From: Kiri Walker <kiri@tasmanmarine.co.nz>
+Date: 2026-09-24
+Subject: Thanks!
+
+Just wanted to say thanks for the quick delivery last week, everything
+arrived in good condition. Kiri, Tasman Marine Supply
+
+=====
+
+Email 13
+From: Linda Park <linda@cedarpointplastics.com>
+Date: 2026-09-25
+Subject: first order
+
+Hi there, we're a new customer. We'd like 30 aluminium sheets (1m).
+End of October is fine. Thanks, Linda Park, Cedar Point Plastics
+
+=====
+
+Email 14
+From: Mike Torres <mike@harborline-fab.com>
+Date: 2026-09-25
+Subject: Re: order
+
+Hi again, can you add 10 control panel enclosures to our order?
+Same delivery date as before if possible. Mike
+
+=====
+
+Email 15
+From: Anke Vogel <a.vogel@nordhaus-metallbau.de>
+Date: 2026-09-25
+Subject: steel brackets
+
+Hello, please also send 150 steel brackets, ASAP. Regards, Anke
+
+=====
+
+Email 16
+From: Budi Santoso <budi@selatan-eng.co.id>
+Date: 2026-09-28
+Subject: gaskets
+
+Dear team, 3 hundred rubber gaskets please, by Oct 14th.
+Thank you, Budi, Selatan Engineering
+
+=====
+
+Email 17
+From: jess@pacificrimtooling.com.au
+Date: 2026-09-28
+Subject: brackets
+
+hi again, can we do 80 steel brakets, need by 10/15
+jess
+
+=====
+
+Email 18
+From: Claire Dubois <claire@mapleleafmachine.ca>
+Date: 2026-09-28
+Subject: Invoice question
+
+Hi, could you resend the invoice for our last order? I can't find it.
+Thanks, Claire
+
+=====
+
+Email 19
+From: Rosa Garcia <rosa@riograndewelding.com>
+Date: 2026-09-29
+Subject: urgent - gaskets and hoses
+
+Hi, we need 100 rubber gaskets and 4 more hydraulic hoses (2m), both by Friday.
+Rosa
+
+=====
+
+Email 20
+From: Pieter van Dijk <pieter@vandijkprecision.nl>
+Date: 2026-09-29
+Subject: Order - bearings
+
+Good afternoon, 1,000 ball bearings 608 please, delivery in two weeks.
+Kind regards, Pieter

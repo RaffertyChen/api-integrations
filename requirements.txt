@@ -1,0 +1,6 @@
+requests
+python-dotenv
+gspread
+anthropic
+pandas
+openpyxl
