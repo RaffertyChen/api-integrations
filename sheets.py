@@ -51,7 +51,7 @@ except (requests.RequestException, KeyError, TypeError, ValueError) as e:
 try:
     price = float(price)
     gc = gspread.service_account(filename=folder / "robot_key.json")
-    sheet = gc.open("Automation practicex")
+    sheet = gc.open("Automation practice")
     ws = sheet.sheet1
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
     ws.append_row([now, price])
