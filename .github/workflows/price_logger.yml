@@ -2,7 +2,7 @@ name: Price logger
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "17 0 * * *" # Every day at 00:17 UTC (9:17 Japan time)
   workflow_dispatch:
 
 jobs:

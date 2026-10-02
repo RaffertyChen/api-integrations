@@ -4,14 +4,13 @@ Scripts that connect to other websites and tools automatically, so nobody has to
 
 ## What's inside
 
-- `ai_orders.py`: reads messy customer order emails and uses AI(claude) to turn them into a clean spreadsheet, one row per product ordered
-- `sheets.py`: gets the live Bitcoin price and adds it to a Google Sheet with the current time, building a price log
+- `ai_orders.py`: reads messy customer order emails and uses AI (Claude) to turn them into a clean spreadsheet, one row per product ordered
+- `sheets.py`: gets the live Bitcoin price and adds it to a Google Sheet with the current time, building a price log. It runs by itself every morning on GitHub and sends an alert email if anything breaks
 - `stock_info.py`: looks up a company's details, like its name and website, from a stock market data service
 - `pages.py`: collects a long list that arrives one page at a time, and stops at the end
 - `coin_price.py`: gets today's Bitcoin price using a private key
-- `github_repos.py`: lists a GitHub (my personal) public projects
+- `github_repos.py`: lists my public projects on GitHub
 - `ai_hello.py`: a first test message to Claude
-- `API_test.py`: gets Apple's stock data using a private key
 
 ## Why it matters
 
@@ -25,7 +24,7 @@ The AI is great at reading messy emails, but it can still make mistakes, especia
 
 1. Install Python from python.org.
 2. In a terminal in this folder, run: `python -m pip install -r requirements.txt`
-3. Copy `.env.example` to a new file called `.env`, and add your own keys from CoinGecko, Anthropic and Massive.
+3. Copy `.env.example` to a new file called `.env`, and add your own keys from CoinGecko, Anthropic and Massive, plus a Gmail address and app password for the alert emails.
 4. For `sheets.py`: create a Google service account, save its key as `robot_key.json` in this folder, and share a Google Sheet called "Automation practice" with the service account's email.
 5. Run any script, for example: `python ai_orders.py`
 
